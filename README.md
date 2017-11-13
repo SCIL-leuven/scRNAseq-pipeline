@@ -3,3 +3,5 @@ Pipeline using snakemake to generate BAM files from FASTQ files. Alignment is pe
 
 Snakemake to generate automated workflows.
 Read [snakemake tutorial](https://snakemake.readthedocs.io/en/stable/)
+
+You can perform kallisto from the scater package
